@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**Pratiksha-Thete/Pratiksha-Thete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Pratiksha Thete 👋
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer | Full-Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning React.js and Full-Stack Development
+- 💡 Interested in Web Development, Python, and AI
+- 🚀 Building projects and improving my coding skills
+
+## 🛠️ Skills & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,bootstrap,flask,fastapi,postgres,git,github,vscode&perline=7" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratiksha-Thete&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiksha-Thete&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/Pratiksha-Thete
+- LinkedIn: https://www.linkedin.com/in/pratiksha-thete-24a4312aa/
+
+⭐ Learning, building, and improving one project at a time!
